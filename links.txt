@@ -1,0 +1,3 @@
+https://docs.djangoproject.com/en/1.3/intro/tutorial01/
+https://docs.djangoproject.com/en/1.3/topics/testing/
+http://dougalmatthews.com/articles/2010/jan/20/testing-your-first-django-app/
