@@ -1,4 +1,9 @@
 This project is to remember and learn more about Django and how to create greats sites with tests. I hope it works. ;)
 
 First I'll do the tutorials at djangoproject.com - FINISHED.
-I'll start to do tests to my Django app (http://dougalmatthews.com/articles/2010/jan/20/testing-your-first-django-app/)
+
+I'll start to do tests to my Django app (http://dougalmatthews.com/articles/2010/jan/20/testing-your-first-django-app/) - NOT
+
+I have read the Douglas Matthews' post, but I'll let here only the Django Project Tutorial.
+Next step: start a real app on a real project.
+Bye!
